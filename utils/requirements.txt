@@ -1,1 +1,8 @@
-python-dotenv==1.0.1
+certifi==2024.2.2
+charset-normalizer==3.3.2
+idna==3.7
+networkx==3.2.1
+requests==2.31.0
+tree-sitter==0.21.3
+tree-sitter-python==0.21.0
+urllib3==2.2.1
